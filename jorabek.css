@@ -1,0 +1,184 @@
+.ota{
+    width: 100%;
+    height: 45px;
+    border: 1px solid #454F5B;
+    background-color: #454F5B;
+    display: flex;
+    align-items: center;
+}
+.a1{
+    font-family: SF Pro Display;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 12%;
+color: white;
+margin-left: 550px;
+}
+.a2 > a{
+    font-family: SF Pro Display;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 12%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+color: white;
+margin-left: 300px;
+
+}
+.q1{
+    margin-left: 80px;
+    padding-top: 15px;
+}
+.menu{
+    margin-left: 210px;
+    padding-top: 20px;
+}
+.q3{
+    width: 100%;
+    height: 66px;
+    /* border: 1px solid #454F5B; */
+    display: flex;
+    
+}
+.q2{
+    font-family: SF Pro Text;
+font-weight: 300;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.tel{
+    display: flex;
+    align-items: center;
+    margin-left: 310px;
+    text-align: center;
+    padding-top: 15px;
+}
+ul > li > a {
+    color: black;
+    text-decoration: none;
+    padding: 0 15px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+.icon{
+    margin: 15px 20px;
+}
+.tet{
+    padding-bottom: 15px;
+}
+
+
+.glav{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+margin-left: 80px;
+
+}
+.kat{
+    color: rgb(138, 134, 134);
+}
+.ota1{
+    width: 100%;
+    height: 960px;
+    /* border: 1px solid black; */
+}
+.kategor{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.ota2{
+    width: 100%;
+    height: 342px;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-top: 50px;
+}
+.bola1{
+    width: 288px;
+    height: 342px;
+    /* border: 1px solid black; */
+    margin-left: 80px;
+}
+.bola{
+    width: 288px;
+    height: 342px;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+}
+.w1{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding: 10px 0;
+
+}
+.box{
+    width: 220px;
+    height: 50px;
+    background-color: #4295E4;
+    color: white;
+    margin-left: 650px;
+}
+.ota3{
+    width: 100%;
+    height: 450px;
+    border: 1px solid #0D2436;
+    background-color: #0D2436;
+    margin-top: 100px;
+}
+.ota4{
+    width: 100%;
+    height: 368px;
+    /* border: 1px solid white; */
+    margin-top: 50px;
+    display: flex;
+
+}
+.bola2{
+    width: 130px;
+    height: 277px;
+}
+.frfr{
+    margin-top: 150px;
+}
+.box1{
+    width: 937px;
+    color: white;
+    height: 277px;
+    margin-left: 271px;
+}
+.tbt{
+    font-family: SF Pro Text;
+font-weight: 300;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.tbtb{
+    font-family: SF Pro Text;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+text-transform: capitalize;
+
+}
