@@ -1,0 +1,447 @@
+body{
+    background-color: #D1D1D1;
+}
+
+.box{
+    height: 45px;
+    border: px solid #454F5B;
+    background-color: #454F5B;
+}
+
+.box1{
+    height: 82px;
+    border: 1px solid #D1D1D1;
+    display: flex;
+    background-color: white;
+}
+
+.container{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.p1{
+    font-family: SF Pro Display;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 12%;
+color: #FFFFFF;
+text-align: center;
+margin-top: 10px;
+
+}
+
+.img1{
+    width: 50px;
+    height: 42px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+
+.a1{
+    font-family: SF Pro Text;
+font-weight: 300;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #3e434b;
+margin-top: 20px;
+
+}
+
+.a11{
+    font-family: SF Pro Text;
+font-weight: 300;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #3e434b;
+margin-top: 20px;
+margin-left: 70px;
+
+}
+
+.img2{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 230px;
+}
+
+.p3{
+    font-family: SF Pro Display;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 30px;
+margin-left: 8px;
+
+}
+
+.img3{
+    width: 32px;
+    height: 32px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+
+.img4{
+    width: 32px;
+    height: 32px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.ota{
+    width: 1318px;
+    height: 775px;
+    margin-left: -11px;
+    border: px solid gray;
+    display: flex;
+    position: relative;
+    background-color: white;
+}
+
+
+.p4{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
+margin-left: -680px;
+margin-top: 160px;
+
+
+}
+
+.p5{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
+margin-left: -222px;
+margin-top: 220px;
+
+
+}
+
+.p6{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0%;
+position: absolute;
+color: #5e6269;
+margin-top: 300px;
+margin-left: 760px;
+
+}
+.p7{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0%;
+position: absolute;
+color: #5e6269;
+margin-top: 330px;
+margin-left: 760px;
+
+}
+.p8{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0%;
+position: absolute;
+color: #5e6269;
+margin-top: 360px;
+margin-left: 760px;
+
+}
+
+.p9{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0%;
+color: #5e6269;
+position: absolute;
+margin-top: 420px;
+margin-left: 760px;
+
+}
+.p10{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+position: absolute;
+margin-top: 470px;
+margin-left: 760px;
+
+}
+
+.p11{
+    font-family: SF Pro Text;
+font-weight: 300;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+text-decoration: line-through;
+position: absolute;
+margin-top: 470px;
+margin-left: 870px;
+color: #989a9e;
+
+}
+
+.bt1{
+width: 220px;
+height: 50px;
+border: 0;
+top: 71px;
+opacity: 1;
+position: absolute;
+background-color: #4295E4;
+color: white;
+margin-top: 460px;
+margin-left: 760px;
+
+}
+
+.ota2{
+    width: 1318px;
+    height: 160px;
+    background-color: #F2F8FF;
+    margin-left: -11px;
+    display: flex;
+    position: relative;
+   
+}
+
+.pp1{
+    font-family: SF Pro Display;
+font-weight: 600;
+font-size: 40px;
+line-height: 38px;
+letter-spacing: 0%;
+margin-top: 40px;
+margin-left: 230px;
+
+}
+.pp2{
+    font-family: SF Pro Display;
+font-weight: 600;
+font-size: 40px;
+line-height: 38px;
+letter-spacing: 0%;
+margin-top: 40px;
+margin-left: 200px;
+
+}
+.pp3{
+    font-family: SF Pro Display;
+font-weight: 600;
+font-size: 40px;
+line-height: 38px;
+letter-spacing: 0%;
+margin-top: 40px;
+margin-left: 200px;
+
+}
+.pp4{
+    font-family: SF Pro Display;
+font-weight: 600;
+font-size: 40px;
+line-height: 38px;
+letter-spacing: 0%;
+margin-top: 40px;
+margin-left: 200px;
+
+}
+
+.pp5{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+position: absolute;
+color: gray;
+margin-top: 90px;
+margin-left: 170px;
+
+}
+.pp6{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+position: absolute;
+color: gray;
+margin-top: 90px;
+margin-left:480px;
+
+}
+.pp7{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+position: absolute;
+color: gray;
+margin-top: 90px;
+margin-left: 770px;
+
+}
+.pp8{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+position: absolute;
+color: gray;
+margin-top: 90px;
+margin-left: 1030px;
+
+}
+
+.ota3{
+    width: 1318px;
+    height: 1200px;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: -11px;
+    position: relative;
+    
+    
+}
+
+.box2{
+    height: 225px;
+    border: px solid black;
+    margin-top: 200px;
+    margin-left: 40px;
+    box-shadow: 3px 3px 3px 1px rgb(202, 201, 201);
+    
+}
+
+.mm{
+    margin-left: 120px;
+}
+
+.img6{
+    width: 82px;
+    height: 82px;
+    margin-top: 24px;
+    margin-left: 106px;
+}
+
+.pp9{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 30px;
+color: rgb(88, 88, 88);
+
+}
+
+.pp10{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 30px;
+color: rgb(88, 88, 88);
+
+}
+.pp11{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 30px;
+color: rgb(88, 88, 88);
+
+}
+
+.pp0{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
+position: absolute;
+margin-top: 100px;
+margin-left: 400px;
+
+}
+
+.ppp1{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
+margin-left: 550px ;
+margin-top: 100px;
+
+}
+
+.bola3{
+    width: 600px;
+    height: 470px;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.bola4{
+    width: 600px;
+    height: 470px;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 650px;
+}
+
+.ppp2{
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 22px;
+line-height: 34px;
+letter-spacing: 0%;
+position: absolute;
+margin-top: -150px;
+margin-left: 50px;
+
+}
+
+.bt2{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 50px;
+}
